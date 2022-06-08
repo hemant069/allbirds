@@ -1,0 +1,15 @@
+.div{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+img{
+    height: 450px;
+}
+
+.fav{
+width: 200px;
+box-sizing: border-box;
+border: 1px solid red;
+}

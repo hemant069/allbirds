@@ -1,0 +1,19 @@
+.div{
+    height: 100vh;
+    background-image: url('https://cdn.allbirds.com/image/upload/f_auto,q_auto,w_1792/cms/92jNySJymy9xnTAGSk6K9/03e7fe16aadb2bf42dc9dca1cffef106/SS22-Core-Homepage-Desktop-TR-02.jpg');
+}
+
+.Buttons{
+    position: absolute;
+      bottom: 0px;
+      left: 50%;
+      transform: translateX(-50%);
+  }
+
+
+  h1{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
